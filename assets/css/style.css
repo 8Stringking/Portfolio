@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+body {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 400;
+    background-image: url('/assets/images/background-images/background-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.bg-circuit {
+    background-image: url('/assets/images/side-nav-images/side-nav-circuit.jpg');
+    background-size: cover;
+}
