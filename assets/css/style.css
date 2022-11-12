@@ -22,8 +22,21 @@ body {
     position: center;
 }
 
-.introduce-myself {
+h1 {
     text-align: center;
     text-decoration: underline;
     margin-top: 5%;
+    text-shadow: grey 1px 1px 1px;
+}
+
+.find-me {
+    padding-top: 25px;
+    text-align: center!important;
+}
+
+.social-icon {
+    display: inline-block!important;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
 }
